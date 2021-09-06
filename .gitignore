@@ -1,0 +1,4 @@
+/venv/*
+.idea/*
+myFirstSite/mysite/poll/__pycache__/*
+myFirstSite/poll/__pycache__/*
